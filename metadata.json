@@ -1,0 +1,6 @@
+{
+  "name": "Pizzaria Bianca",
+  "description": "Pizzaria Bianca em Contagem - MG. Massa perfeita, sabor inesquecível. Confira nosso cardápio digital, galeria de fotos e peça pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
